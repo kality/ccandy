@@ -5,7 +5,7 @@ import { vitePressNote } from "./sideBar/vitePressBar";
 
 export default {
 
-    base: "/vitePress-project/",
+    base: "/ccandy/",
 
     title: '前端吧',
     description: '关注web前端开发为主的博客网站和前端网址大全',
