@@ -6,7 +6,7 @@ hero:
         alt: logo
     name: 疯狂的糖果
     text: CrazyCandy
-    tagline: 
+    tagline: Conquer mind rather than conquer whole universe
 
     actions:
     - theme: alt
